@@ -4,6 +4,7 @@
   "id": "fnotepad-e5dFZnCBL7eFXA",
   "description": "Firefox addon for placing an app tab in active Firefox window as NotePad ",
   "author": "Ashish Namdev",
+  "homepage" : "http://ashishnamdev.github.io/FnotePad/",
   "icon": "data/icon-32.png",
   "license": "MPL 2.0",
   "version": "1.0"

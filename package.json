@@ -1,6 +1,6 @@
 {
   "name": "fnotepad",
-  "title": "FnotePad : app tab in active Firefox Window as NotePad",
+  "title": "FnotePad : Firefox addon for adding Pin tab to be used as NotePad in browser window",
   "id": "fnotepad-e5dFZnCBL7eFXA",
   "description": "Firefox addon for placing an app tab in active Firefox window as NotePad ",
   "author": "Ashish Namdev",

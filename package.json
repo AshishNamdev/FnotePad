@@ -1,10 +1,10 @@
 {
-  "name": "FnotePad",
+  "name": "fnotepad",
   "title": "FnotePad : Firefox Window as NotePad",
   "id": "fnotepad-e5dFZnCBL7eFXA",
   "description": "Firefox addon for using Firefox window as NotePad ",
   "author": "Ashish Namdev",
   "icon": "data/icon-32.png",
   "license": "MPL 2.0",
-  "version": "1.0",
+  "version": "1.0"
 }
